@@ -1,27 +1,3 @@
-#  BCrypt Hash Cracker
-
-# A Python tool for cracking BCrypt hashes using wordlist attacks.
-
-# ## Features
-
-# - BCrypt hash verification
-# - Supports custom wordlists
-# - Progress tracking
-# - Time estimation
-# - Simple CLI interface
-
-
-
-## 2. bcrypt_cracker.py (Improved Version)
-
-```python
-#!/usr/bin/env python3
-"""
-BCrypt Hash Cracker Tool
-Author: Your Name
-GitHub: https://github.com/yourusername/bcrypt-hash-cracker
-"""
-
 import bcrypt
 import time
 import os
